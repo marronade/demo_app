@@ -1,0 +1,23 @@
+commit 6d449aaf3f46abd6b174d176f04523ee62b0634a
+Author: Richard Marron <rcmarron@gmail.com>
+Date:   Sat Aug 13 13:40:41 2011 -0400
+
+    Done with static pages
+
+commit 7e7b720afdb534d7a9e6ca24a7b53eb2825e5fde
+Author: Richard Marron <rcmarron@gmail.com>
+Date:   Sat Aug 13 00:35:03 2011 -0400
+
+    Added a Pages Controller
+
+commit aa2e68453db62c97495842c52003c3b93a27f59e
+Author: Richard Marron <rcmarron@gmail.com>
+Date:   Fri Aug 12 13:46:58 2011 -0400
+
+    Done with Demo App
+
+commit 24287ed60c88a91a6869e19918121177951bfcbd
+Author: Richard Marron <rcmarron@gmail.com>
+Date:   Mon Aug 8 16:35:03 2011 -0400
+
+    Initial Content
